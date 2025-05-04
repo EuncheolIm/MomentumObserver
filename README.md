@@ -8,7 +8,7 @@ This class estimates joint-space momentum using discrete-time dynamics and can b
 
 ## 👤 Author
 
-Euncheol Im
+Euncheol Im \
 Date: 2025-05-01
 
 ---
